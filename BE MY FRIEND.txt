@@ -1,0 +1,39 @@
+<!doctype html>
+<head><title>FRIENDS</title></head>
+<body>
+<header>
+<a href="index.html">
+<img src="naveen.jpg" alt="NAVEEN CHOKAN (4544)" title="HOBBIES AND FRIENDS">
+</a>
+</header>
+<hr>
+<nav>
+<table cellspacing="5" cellpadding="5">
+<tr>
+<td><a href="index.html">HOME</a></td>
+<td><a href="friends.html">FRIENDS</a></td>
+</tr>
+</nav>
+</table>
+<hr>
+
+<img src="welcome.jpg">
+
+<table>
+<tr>
+<td bgcolor="skyblue" align="center">
+<header>
+<a href="BE MY FRIEND.html">
+<H3>BE MY FRIEND</h3>
+</a>
+</header>
+
+</td>
+</tr>
+
+</table>
+
+
+
+
+</body>

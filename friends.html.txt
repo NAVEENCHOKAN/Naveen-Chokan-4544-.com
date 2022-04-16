@@ -1,0 +1,54 @@
+<!doctype html>
+<head><title>FRIENDS</title></head>
+<body style="background-color:skyblue;">
+<header>
+<a href="index.html">
+<img src="naveen.jpg" alt="NAVEEN CHOKAN (4544)" title="HOBBIES AND FRIENDS">
+</a>
+</header>
+<hr>
+<nav>
+<table cellspacing="5" cellpadding="5">
+<tr>
+<td><a href="index.html">HOME</a></td>
+<td><a href="friends.html">FRIENDS</a></td>
+</tr>
+</nav>
+</table>
+<hr>
+
+<h2>MY FRIENDS:</h2>
+
+<table>
+<tr>
+<td bgcolor="skyblue" align="center">
+<header>
+<a href="BE MY FRIEND.html">
+<H3>BE MY FRIEND</h3>
+</a>
+</header>
+
+</td>
+</tr>
+<tr>
+<td>
+<strong>MY FRIENDS:</strong>
+<ul>
+<li>1.ABDUL AHAD</LI>
+<li>2.SHIVANG</li>
+<li>3.RAHUL YADAV</li>
+<li>4.AMANDEEP KUMAR</li>
+<li>5.ABHINAV SINHA</li>
+<li>6.VEDANSH TYAGI</li>
+<li>7.HIMANSHU SHRAWAT</li>
+<li>MANY MORE..</li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+
+
+
+</body>

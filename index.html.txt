@@ -1,0 +1,36 @@
+<!doctype html>
+<head><title>NAVEEN CHOKAN</title></head>
+<body style="background-color:skyblue;">
+<header>
+<a href="index.html">
+<img src="naveen.jpg" alt="NAVEEN CHOKAN(4544)" title="HOBBIES AND FRIENDS">
+</a>
+</header>
+<hr>
+<nav>
+<table cellspacing="5" cellpadding="5">
+<tr>
+<td><a href="index.html">HOME</a></td>
+<td><a href="friends.html">FRIENDS</a></td>
+</tr>
+</table>
+</nav>
+<hr>
+<h2>MY HOBBIES!</H2>
+
+<ul>
+<li>1. READING</li>
+<li>2. MUSIC</li>
+<li>3. PLAYING VOLLYBALL</li>
+<li>4. GYMNASIUM</li>
+<li>5. TRAVELLING</li>
+<li>6. PLAYING VIDEO GAMES</li>
+<li>7. PHOTOGRAPHY</li>
+</ul>
+
+<img src="hobby.jpg" width="50%" heidht="50%">
+<hr>
+<footer>
+<strong>MADE BY NAVEEN CHOKAN(4544)
+</FOOTER>
+</body>
